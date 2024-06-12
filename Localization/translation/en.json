@@ -1,0 +1,87 @@
+{
+    "language": "English",
+    "screens": {
+      "login": {
+        "title": "Sign in to Healthify me",
+        "text": {
+          "subtitle": "Get control of your health",
+          "usernameLabel": "Username",
+          "usernamePlaceholder": "Enter your username",
+          "passwordLabel": "Password",
+          "passwordPlaceholder": "Enter your password",
+          "signInButton": "Sign in",
+          "signUpPrompt": "Don't have an account?",
+          "signUpLink": "Sign up",
+          "loginSuccessful": "Login successful",
+          "invalidCredentials": "Invalid credentials",
+          "errorLoggingIn": "Error logging in"
+        }
+      },
+      "signUp": {
+        "title": "Welcome to Healthify me",
+        "text": {
+          "subtitle": "Let's get in shape together",
+          "nameLabel": "Name",
+          "namePlaceholder": "Enter your name",
+          "usernameLabel": "Username",
+          "usernamePlaceholder": "Create your username",
+          "passwordLabel": "Password",
+          "passwordPlaceholder": "Create your password",
+          "signUpButton": "Sign Up",
+          "userCreatedSuccess": "User Created Successfully",
+          "usernameExists": "Username already exists. Please choose a different username.",
+          "errorSigningUp": "Error signing up"
+        }
+      },
+      "home": {
+        "title": "Welcome to Healthify me",
+        "text": {
+          "subtitle": "Stay healthy and fit",
+          "newBmiButton": "Calculate New BMI",
+          "showPastBmiButton": "Show Past BMI Records"
+        }
+      },
+      "newBmi": {
+        "title": "Calculate New BMI",
+        "text": {
+          "weightLabel": "Weight (kg):",
+          "weightPlaceholder": "Enter weight",
+          "heightLabel": "Height (cm):",
+          "heightPlaceholder": "Enter height",
+          "calculateButton": "Calculate BMI",
+          "resultText": "Your BMI:"
+        }
+      },
+      "BmiHome": {
+        "title": "BMI Home",
+        "text": {
+          "newBmiButton": "Calculate New BMI",
+          "showPastBmiButton": "Show Past BMI Records"
+        }
+      },
+      "HisBmi": {
+        "title": "BMI History",
+        "text": {
+          "loading": "Loading BMI records...",
+          "errorFetching": "Error fetching BMI records",
+          "noRecords": "No BMI records found"
+        }
+      },
+      "StepCounterHome": {
+        "title": "Step Counter Home"
+      },
+      "text": {
+        "pedometerAvailable": "Is Pedometer available on the device: ",
+        "stepsTitle": "Step Count",
+        "targetSteps": "Target: 10000 steps",
+        "distanceCovered": "Distance Covered: "
+      },
+      "Steps Home Screen": {
+        "title": "Steps Counter Home",
+        "text": {
+          "startNewSession": "Start New Session",
+          "showPastRecords": "Show Past Records"
+        }
+      }
+    }
+  }

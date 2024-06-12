@@ -1,0 +1,88 @@
+{
+    "language": "Hindi",
+    "screens": {
+      "login": {
+        "title": "हेल्थीफाई में साइन इन करें",
+        "text": {
+          "subtitle": "अपने स्वास्थ्य को नियंत्रित करें",
+          "usernameLabel": "उपयोगकर्ता नाम",
+          "usernamePlaceholder": "अपना उपयोगकर्ता नाम दर्ज करें",
+          "passwordLabel": "पासवर्ड",
+          "passwordPlaceholder": "अपना पासवर्ड दर्ज करें",
+          "signInButton": "साइन इन करें",
+          "signUpPrompt": "खाता नहीं है?",
+          "signUpLink": "साइन अप करें",
+          "loginSuccessful": "लॉगिन सफल",
+          "invalidCredentials": "अमान्य क्रेडेंशियल्स",
+          "errorLoggingIn": "लॉगिन में त्रुटि"
+        }
+      },
+      "signUp": {
+        "title": "हेल्थीफाई में आपका स्वागत है",
+        "text": {
+          "subtitle": "मिलकर हम स्वस्थ रहें",
+          "nameLabel": "नाम",
+          "namePlaceholder": "अपना नाम दर्ज करें",
+          "usernameLabel": "उपयोगकर्ता नाम",
+          "usernamePlaceholder": "अपना उपयोगकर्ता नाम बनाएं",
+          "passwordLabel": "पासवर्ड",
+          "passwordPlaceholder": "अपना पासवर्ड बनाएं",
+          "signUpButton": "साइन अप करें",
+          "userCreatedSuccess": "यूजर सफलतापूर्वक बनाया गया",
+          "usernameExists": "उपयोगकर्ता नाम पहले से मौजूद है। कृपया एक अलग उपयोगकर्ता नाम चुनें।",
+          "errorSigningUp": "साइन अप में त्रुटि"
+        }
+      },
+      "home": {
+        "title": "हेल्थीफाई में आपका स्वागत है",
+        "text": {
+          "subtitle": "सहेलियों में स्वस्थ रहें",
+          "newBmiButton": "नया बीएमआई कैलकुलेट करें",
+          "showPastBmiButton": "पिछला बीएमआई रिकॉर्ड देखें"
+        }
+      },
+      "newBmi": {
+        "title": "नया बीएमआई कैलकुलेट करें",
+        "text": {
+          "weightLabel": "वजन (किलोग्राम):",
+          "weightPlaceholder": "वजन दर्ज करें",
+          "heightLabel": "ऊचाई (मीटर):",
+          "heightPlaceholder": "ऊचाई दर्ज करें",
+          "calculateButton": "बीएमआई कैलकुलेट करें",
+          "resultText": "आपका बीएमआई:"
+        },
+        "BmiHome": {
+          "title": "बीएमआई होम",
+          "text": {
+            "newBmiButton": "नया बीएमआई कैलकुलेट करें",
+            "showPastBmiButton": "पिछला बीएमआई रिकॉर्ड देखें"
+          }
+        },
+        "HisBmi": {
+          "title": "बीएमआई इतिहास",
+          "text": {
+            "loading": "बीएमआई रिकॉर्ड्स लोड हो रहे हैं...",
+            "errorFetching": "बीएमआई रिकॉर्ड्स प्राप्त करने में त्रुटि हुई",
+            "noRecords": "कोई बीएमआई रिकॉर्ड नहीं मिला"
+          }
+        },
+        "StepCounterHome":{
+            "title":"स्टेप काउंटर होम"
+        },
+        "text":{
+            "pedometerAvailable": "क्या डिवाइस पर पेडोमीटर उपलब्ध है: ",
+            "stepsTitle": "स्टेप काउंट",
+            "targetSteps": "लक्ष्य: 10000 स्टेप्स",
+            "distanceCovered": "दूरी कवर की गई: "
+        },
+        "Steps Home Screen": {
+          "title": "स्टेप काउंटर होम",
+          "text": {
+            "startNewSession": "नई सत्र शुरू करें",
+            "showPastRecords": "पिछले रिकॉर्ड दिखाएं"
+          }
+        }
+      }
+    }
+    
+}

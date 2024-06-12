@@ -1,0 +1,89 @@
+{
+    "language": "Punjabi",
+    "screens": {
+      "login": {
+        "title": "ਹੈਲਥੀਫਾਈ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ",
+        "text": {
+          "subtitle": "ਆਪਣੇ ਸਿਹਤ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰੋ",
+          "usernameLabel": "ਯੂਜਰਨਾਮ",
+          "usernamePlaceholder": "ਆਪਣਾ ਯੂਜਰਨਾਮ ਦਰਜ ਕਰੋ",
+          "passwordLabel": "ਪਾਸਵਰਡ",
+          "passwordPlaceholder": "ਆਪਣਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+          "signInButton": "ਸਾਈਨ ਇਨ",
+          "signUpPrompt": "ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+          "signUpLink": "ਸਾਈਨ ਅਪ",
+          "loginSuccessful": "ਸਾਈਨ ਇਨ ਕਾਮਯਾਬ",
+          "invalidCredentials": "ਗਲਤ ਕਰੀਡੈਂਟੀਅਲਸ",
+          "errorLoggingIn": "ਲਾਗਇਨ ਵਿੱਚ ਤਰੁਟੀ"
+        }
+      },
+      "signUp": {
+        "title": "ਹੈਲਥੀਫਾਈ ਵਿੱਚ ਜੀ ਆਇਆ ਨੂੰ",
+        "text": {
+          "subtitle": "ਸਹੇਲੇ ਵਿੱਚ ਸਵਾਗਤ ਹੈ",
+          "nameLabel": "ਨਾਮ",
+          "namePlaceholder": "ਆਪਣਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+          "usernameLabel": "ਯੂਜਰਨਾਮ",
+          "usernamePlaceholder": "ਆਪਣਾ ਯੂਜਰਨਾਮ ਬਣਾਓ",
+          "passwordLabel": "ਪਾਸਵਰਡ",
+          "passwordPlaceholder": "ਆਪਣਾ ਪਾਸਵਰਡ ਬਣਾਓ",
+          "signUpButton": "ਸਾਈਨ ਅਪ",
+          "userCreatedSuccess": "ਯੂਜਰ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ",
+          "usernameExists": "ਯੂਜਰਨਾਮ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਅਲੱਗ ਯੂਜਰਨਾਮ ਚੁਣੋ।",
+          "errorSigningUp": "ਸਾਈਨ ਅਪ ਵਿੱਚ ਤਰੁਟੀ"
+        }
+      },
+      "home": {
+        "title": "ਹੈਲਥੀਫਾਈ ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ",
+        "text": {
+          "subtitle": "ਸਹੇਲੇ ਰਹੋ ਅਤੇ ਸਵਸਥ ਰਹੋ",
+          "newBmiButton": "ਨਵਾਂ ਬੀਐਮਆਈ ਗਿਣਤੀ ਕਰੋ",
+          "showPastBmiButton": "ਪਿਛਲੇ ਬੀਐਮਆਈ ਰਿਕਾਰਡ ਵੇਖੋ"
+        }
+      },
+    
+      "newBmi": {
+        "title": "ਨਵਾਂ ਬੀਐਮਆਈ ਗਿਣਤੀ ਕਰੋ",
+        "text": {
+          "weightLabel": "ਵਜਨ (ਕਿਲੋਗ੍ਰਾਮ):",
+          "weightPlaceholder": "ਵਜਨ ਦਰਜ ਕਰੋ",
+          "heightLabel": "ਉਚਾਈ (ਸੈਂਟੀਮੀਟਰ):",
+          "heightPlaceholder": "ਉਚਾਈ ਦਰਜ ਕਰੋ",
+          "calculateButton": "ਬੀਐਮਆਈ ਗਿਣਤੀ ਕਰੋ",
+          "resultText": "ਤੁਹਾਡਾ ਬੀਐਮਆਈ:"
+        }
+      },
+      "BmiHome": {
+        "title": "ਬੀਐਮਆਈ ਹੋਮ",
+        "text": {
+          "newBmiButton": "ਨਵਾਂ ਬੀਐਮਆਈ ਗਿਣਤੀ ਕਰੋ",
+          "showPastBmiButton": "ਪਿਛਲੇ ਬੀਐਮਆਈ ਰਿਕਾਰਡ ਵੇਖੋ"
+        }
+      },    "HisBmi": {
+        "title": "ਬੀਐਮਆਈ ਇਤਿਹਾਸ",
+        "text": {
+          "loading": "ਬੀਐਮਆਈ ਰਿਕਾਰਡਾਂ ਲੋਡ ਹੋ ਰਹੇ ਹਨ...",
+          "errorFetching": "ਬੀਐਮਆਈ ਰਿਕਾਰਡਾਂ ਨੂੰ ਫੇਚ ਕਰਨ ਵਿੱਚ ਗਲਤੀ ਹੋਈ",
+          "noRecords": "ਕੋਈ ਬੀਐਮਆਈ ਰਿਕਾਰਡ ਨਹੀਂ ਮਿਲੇ"
+        }
+      },
+      "StepCounterHome": {
+        "title": "ਸਟੈਪ ਕਾਊਂਟਰ ਹੋਮ"
+      },
+      "text": {
+        "pedometerAvailable": "ਕੀ ਡਿਵਾਈਸ 'ਤੇ ਪੇਡੋਮੀਟਰ ਉਪਲਬਧ ਹੈ: ",
+        "stepsTitle": "ਸਟੈਪ ਗਿਣਤੀ",
+        "targetSteps": "ਟਾਰਗੇਟ: 10000 ਸਟੈਪ",
+        "distanceCovered": "ਦੂਰੀ ਕਵਰ ਕੀਤੀ ਗਈ:"
+      },
+      "Steps Home Screen": {
+        "title": "ਸਟੈਪ ਕਾਊਂਟਰ ਹੋਮ",
+        "text": {
+          "startNewSession": "ਨਵਾਂ ਸੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰੋ",
+          "showPastRecords": "ਪਿਛਲੇ ਰਿਕਾਰਡ ਵੇਖੋ"
+        }
+      }
+    }
+  }
+  
+  
